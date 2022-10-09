@@ -1,0 +1,3 @@
+displayName = Jackspajf's Random Stuff 2: Electric Boogaloo
+author = Jackspajf
+version = 0.1
